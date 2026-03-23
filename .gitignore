@@ -1,0 +1,7 @@
+# Private keys - NEVER upload these to GitHub
+private_key.pem
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
